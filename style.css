@@ -1,0 +1,75 @@
+body 
+{
+    background-size: cover;
+}
+.heading 
+{
+    font-size: 35;
+    color: gold;
+    background-color: black;
+    font-weight: bold;
+    font-style: oblique;
+    width: 100%;
+    margin-top: 0px;
+}
+#start 
+{
+    font-size: 25;
+    color: cyan;
+    background-color: darkslateblue;
+    font-weight: bold;
+    font-style: oblique;
+    border-radius: 40px;
+}
+#text_input
+{
+    width: 30%;
+}
+#object_name
+{
+    font-size: 25;
+    color: bisque;
+    background-color: black;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: 0px;
+    width: fit-content;
+}
+#no_of_objects
+{
+
+    font-size: 25;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-style: oblique;
+    border-radius: 40px;
+    margin-right: 40px;
+    left: 0px;
+}
+#status
+{
+
+    font-size: 25;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-style: oblique;
+    border-radius: 40px;
+}
+canvas
+{
+    background-color: aliceblue;
+}
+#copyright_footer 
+{
+    bottom: 0px;
+    position:fixed;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 15;
+    text-align: center;
+    background-color: red;
+    width: 100%;
+    color: cyan;
+}
